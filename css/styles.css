@@ -622,7 +622,7 @@ input[type='checkbox'] {
 /*******************/
 .split .area-1 {
 	height: 430px;
-	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/details-background.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/details-background.jpg') right center no-repeat;
 	background-size: cover;
 }
 
@@ -1296,8 +1296,4 @@ a:hover.back-to-top {
 
 html, body {
 	background: #fff;
-}
-
-.area-1 {
-	background-position: right;
 }
