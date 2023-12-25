@@ -1297,3 +1297,7 @@ a:hover.back-to-top {
 html, body {
 	background: #fff;
 }
+
+.area-1 {
+	backfround-position: right;
+}
