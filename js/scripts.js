@@ -70,7 +70,7 @@
     });
 
 	/* Animation of the Full-name */
-	var words = ['Hi! I\'m Soufyane,', 'Graphic Guru', 'Color Captain', 'Color Captain', 'Pixel Wizard'],
+	var words = ['Hi! I\'m Soufyane,', 'Graphic Guru', 'Design Prodigy', 'Color Captain', 'Pixel Wizard'],
     part, i = 0, offset = 0, len = words.length, forwards = true, skip_count = 0, skip_delay = 15, speed = 70;
 	var wordflick = function () {
 	  setInterval(function () {
