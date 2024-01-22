@@ -2,4 +2,3 @@ User-agent: *
 Disallow: /js
 Disallow: /css
 Disallow: /webfonts
-Disallow: /images
