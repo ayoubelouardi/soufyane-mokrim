@@ -1,5 +1,5 @@
-# wh:at should i add 
-- blue color with red #ff0000
+# what should i add 
+- blue color with red #ed2024
 - changing the projects in the main page
 - Projects
     - changing the img in the woke this me section

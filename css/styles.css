@@ -1297,3 +1297,10 @@ a:hover.back-to-top {
 html, body {
 	background: #fff;
 }
+
+
+/* added features from me  */
+
+.bg-sblack {
+	background-color: black;
+}
