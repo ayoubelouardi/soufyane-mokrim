@@ -26,7 +26,7 @@ Colors:
 - Backgrounds - light gray #f7f9fb
 - Buttons, icons - red #ed2024
 - Headings text - light gray #f7f9fb
-- Body text - dark gray #4d5055
+- Body text - white #fff
 ******************************************/
 
 
@@ -40,7 +40,7 @@ html {
 }
 
 body, p {
-	color: #4d5055; 
+	color: #fff; 
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
 }
 
@@ -117,12 +117,12 @@ h6 {
 }
 
 a {
-	color: #4d5055;
+	color: #fff;
 	text-decoration: underline;
 }
 
 a:hover {
-	color: #4d5055;
+	color: #fff;
 	text-decoration: underline;
 }
 
@@ -267,7 +267,7 @@ a:hover {
 .form-control-textarea:focus + .label-control,
 .form-control-textarea.notEmpty + .label-control {
 	top: 0.125rem;
-	color: #4d5055;
+	color: #fff;
 	opacity: 1;
 	font-size: 0.75rem;
 	font-weight: 700;
@@ -282,7 +282,7 @@ a:hover {
 	padding-left: 1.5rem;
 	border: 1px solid #cbcbd1;
 	background-color: #ffffff;
-	color: #4d5055;
+	color: #fff;
 	font-size: 0.875rem;
 	line-height: 1.875rem;
 	transition: all 0.2s;
@@ -317,7 +317,7 @@ select {
 	padding-left: 1.3125rem;
 	border: 1px solid #cbcbd1;
 	background-color: #ffffff;
-	color: #4d5055;
+	color: #fff;
 	font-size: 0.875rem;
 	line-height: 1.5rem;
 	transition: all 0.2s;
