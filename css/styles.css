@@ -361,9 +361,9 @@ input[type='checkbox'] {
 }
 
 .form-control-submit-button:hover {
-	border: 1px solid #24262a;
-	background-color: transparent;
-	color: #24262a;
+	border: 1px solid red;
+	background-color: white;
+	color: red;
 }
 
 
