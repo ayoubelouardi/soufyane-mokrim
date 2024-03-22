@@ -40,7 +40,6 @@ html {
 }
 
 body, p {
-	color: #fff; 
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
 }
 
@@ -803,7 +802,7 @@ input[type='checkbox'] {
 
 .accordion-1 .card button {
 	padding: 0;
-	color: #24262a;
+	color: #ccc;
 	font-weight: 600;
 	font-size: 1.125rem;
 	line-height: 1.75rem;
@@ -1303,4 +1302,8 @@ html, body {
 
 .bg-sblack {
 	background-color: black;
+}
+
+.c-red {
+	color: red;
 }
