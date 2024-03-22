@@ -782,7 +782,7 @@ input[type='checkbox'] {
 .accordion-1 {
 	padding-top: 7.75rem;
 	padding-bottom: 6.75rem;
-	background: #fff;
+	background: black;
 }
 
 .accordion-1 .h2-heading {
@@ -1295,7 +1295,7 @@ a:hover.back-to-top {
 }
 
 html, body {
-	background: #fff;
+	background: black;
 }
 
 
