@@ -253,7 +253,7 @@ a:hover {
 	position: absolute;
 	top: 0.875rem;
 	left: 1.5rem;
-	color: #7d838a;
+	color: #444;
 	opacity: 1;
 	font-size: 0.875rem;
 	line-height: 1.375rem;
@@ -266,7 +266,7 @@ a:hover {
 .form-control-textarea:focus + .label-control,
 .form-control-textarea.notEmpty + .label-control {
 	top: 0.125rem;
-	color: #fff;
+	color: #333;
 	opacity: 1;
 	font-size: 0.75rem;
 	font-weight: 700;
@@ -279,8 +279,8 @@ a:hover {
 	padding-top: 1.125rem;
 	padding-bottom: 0.125rem;
 	padding-left: 1.5rem;
-	border: 1px solid #cbcbd1;
-	background-color: #ffffff;
+	border: 1px solid #ed2024;
+	background-color: #ddd;
 	color: #fff;
 	font-size: 0.875rem;
 	line-height: 1.875rem;
