@@ -266,7 +266,7 @@ a:hover {
 .form-control-textarea:focus + .label-control,
 .form-control-textarea.notEmpty + .label-control {
 	top: 0.125rem;
-	color: #333;
+	color: #f00;
 	opacity: 1;
 	font-size: 0.75rem;
 	font-weight: 700;
@@ -315,7 +315,7 @@ select {
 	padding-top: 1.5rem;
 	padding-left: 1.3125rem;
 	border: 1px solid #cbcbd1;
-	background-color: #ffffff;
+	background-color: #333;
 	color: #fff;
 	font-size: 0.875rem;
 	line-height: 1.5rem;
