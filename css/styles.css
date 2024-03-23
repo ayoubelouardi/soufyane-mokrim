@@ -958,7 +958,8 @@ a:hover.back-to-top {
 
 .ex-basic-1 .text-box {
 	padding: 1.25rem 1.25rem 0.5rem 1.25rem;
-	background-color: #f7f9fb;
+	background-color: 000;
+	border: 1px solid red;
 }
 
 .ex-cards-1 .card {
