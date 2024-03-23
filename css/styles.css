@@ -314,7 +314,7 @@ select {
 	height: 14rem; /* used instead of html rows to normalize height between Chrome and IE/FF */
 	padding-top: 1.5rem;
 	padding-left: 1.3125rem;
-	border: 1px solid #cbcbd1;
+	border: 1px solid #f00;
 	background-color: #333;
 	color: #fff;
 	font-size: 0.875rem;
@@ -325,7 +325,7 @@ select {
 .form-control-input:focus,
 .form-control-select:focus,
 .form-control-textarea:focus {
-	border: 1px solid #a1a1a1;
+	border: 1px solid #f00;
 	outline: none; /* Removes blue border on focus */
 }
 
