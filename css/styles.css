@@ -253,7 +253,7 @@ a:hover {
 	position: absolute;
 	top: 0.875rem;
 	left: 1.5rem;
-	color: #444;
+	color: #999;
 	opacity: 1;
 	font-size: 0.875rem;
 	line-height: 1.375rem;
@@ -280,7 +280,7 @@ a:hover {
 	padding-bottom: 0.125rem;
 	padding-left: 1.5rem;
 	border: 1px solid #ed2024;
-	background-color: #ddd;
+	background-color: #333;
 	color: #fff;
 	font-size: 0.875rem;
 	line-height: 1.875rem;
