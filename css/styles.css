@@ -723,6 +723,23 @@ input[type='checkbox'] {
 	-webkit-transform: scale(1.15);
 	transform: scale(1.15);
 } 
+/* Hover Animation */
+.hover-anim {
+	overflow: hidden;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.hover-anim:hover {
+	margin: 0;
+	transition: all 0.2s;
+}
+
+.hover-anim:hover {
+	-moz-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+} 
 /* end of hover animation */
 
 
