@@ -1,5 +1,4 @@
 # what should i add 
-- changing the projects in the main page
 - Projects
     - edit the more look 
 - add adobe lightroom
