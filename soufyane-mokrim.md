@@ -1,14 +1,9 @@
 # what should i add 
-- blue color with red #ed2024
 - changing the projects in the main page
 - Projects
-    - changing the img in the woke this me section
     - edit the more look 
-    
-- change every things to black and change the text to gray and white
 - change the logo of twitter
 - add adobe lightroom
-- change destributed to developed
 
 # what should i change in copy
 - changing the 1st sentence 
