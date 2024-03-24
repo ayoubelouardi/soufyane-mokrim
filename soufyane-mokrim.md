@@ -2,8 +2,11 @@
 - changing the projects in the main page
 - Projects
     - edit the more look 
-- change the logo of twitter
 - add adobe lightroom
+- edit project details page
+- edit SEO
+- edit sitemap
+- 
 
 # what should i change in copy
 - changing the 1st sentence 
@@ -18,13 +21,11 @@
 
 
 # what should i fix 
-- the projects imgs viewing 
-
+- change the logo of twitter
 
 # fantastic features 
 - hide the scroll bar
 - add controled scrolling 
-- fix the contact us forum look
 - adding 3d object (triangle, circle... etc) with movement in the header
 
 
