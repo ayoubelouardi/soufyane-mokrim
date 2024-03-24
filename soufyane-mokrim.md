@@ -5,6 +5,7 @@
 - edit project details page
 - edit SEO
 - edit sitemap
+- edit logo to white
 
 # what should i change in copy
 - changing the 1st sentence 
