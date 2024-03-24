@@ -6,7 +6,6 @@
 - edit project details page
 - edit SEO
 - edit sitemap
-- 
 
 # what should i change in copy
 - changing the 1st sentence 
