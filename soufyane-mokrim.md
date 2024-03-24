@@ -11,7 +11,7 @@
     - First paragraph
     - adding mozart 
     - making the decription shorter
-    - making movement in the headers (change : Casablanca with Graphic designer)
+    - making movement in the titles (change : Casablanca with Graphic designer)
 - Services
     - changing the copy in the 'offered services'
     - changing the copy of the 3 gigs
@@ -25,4 +25,6 @@
 - hide the scroll bar
 - add controled scrolling 
 - fix the contact us forum look
+- adding 3d object (triangle, circle... etc) with movement in the header
+
 
