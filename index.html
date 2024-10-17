@@ -56,13 +56,15 @@
                         <a class="nav-link page-scroll" href="#services">Services</a>
                     </li>
 					
+
+                    
 					<!-- dropdown -->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Work with me</a>
                         <div class="dropdown-menu" aria-labelledby="dropdown01">
                             <a class="dropdown-item page-scroll" href="project.html">Project Details</a>
                             <div class="dropdown-divider"></div>
-							<a class="dropdown-item page-scroll" href="projects.html">My Projects</a>
+							<a class="dropdown-item page-scroll" href="#projects">My Projects</a>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item page-scroll" href="terms.html">Terms & Conditions</a>
                             <div class="dropdown-divider"></div>
@@ -168,53 +170,98 @@
     <div class="basic-4 bg-sblack">
         <div class="container">
             <div class="row text-center">
-                <div class="col-lg-12">
-                    <h1>My Projects</h1>
+                <div id="projects" class="col-lg-12">
+                    <h1  >My Projects</h1>
                     <br>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
+            <div class="row  justify-content-center button-group filters-button-group" role="group">
+                
+                <button class="btn btn-outline-danger mx-1 mb-5"        data-filter="*">Show all                            </button>
+                <button class="btn btn-outline-danger mx-1 mb-5"        data-filter=".Branding">Branding                    </button>
+                <button class="btn btn-outline-danger mx-1 mb-5"        data-filter=".Social_media">Social media design     </button>
+                <button class="btn btn-outline-danger mx-1 mb-5"        data-filter=".sport">sport design                   </button>
+            </div>
+            <!-- Projects filter-->
+    <div class="ex-basic-1 pt-3 pb-5">
+        <div class="container">
             <div class="row">
-                <div class="row">
-                    <!-- 1 Project Grid -->
-                    <div class="col-lg-4">
-                        <div class="text-container text-center">
-                            <div class="image-container">
-                                <a href="projects/wes/gallery.html">
-                                    <img class="img-fluid" src="projects/wes/westhame.jpg" alt="alternative">
-                                </a>
-                            </div> <!-- end of image-container -->
-                            <p><strong>West Ham United - Artworks</strong></p>
-                        </div> <!-- end of text-container -->
-                    </div> <!-- end of col -->
-                    <!-- 2 Project Grid -->
-                    <div class="col-lg-4">
-                        <div class="text-container text-center">
-                            <div class="image-container">
-                                <a href="projects/soc/gallery.html">
-                                    <img class="img-fluid" src="projects/soc/socialmedia.jpg" alt="alternative">
-                                </a>
-                            </div> <!-- end of image-container -->
-                            <p><strong>Social Media - Collection</strong></p>
-                        </div> <!-- end of text-container -->
-                    </div> <!-- end of col -->
-                    <!-- 3 Project Grid -->
-                    <div class="col-lg-4">
-                        <div class="text-container text-center">
-                            <div class="image-container">
-                                <a href="projects/mzt/gallery.html">
-                                    <img class="img-fluid" src="projects/mzt/mozart.png" alt="alternative">
-                                </a>
-                            </div> <!-- end of image-container -->
-                            <p><strong>Its Mozart | Social Media</strong></p>
-                        </div> <!-- end of text-container -->
-                    </div> <!-- end of col -->
-                </div> <!-- end of row -->
-                <!-- Buttom of More -->
-                <a class="btn-solid-lg page-scroll mx-auto" href="projects.html">More</a>
+                <div class="col-xl-12 offset">
+						<!-- Works -->
+						<div class="container text-center">
+							<div class="row row-cols-2 grid">
+                                
+                                    <div class="col-4 element-item sport" data-category="sport">
+                                        <div class="text-container hover-anim">
+                                            <div class="image-container">
+                                                <a href="projects/mar/gallery.html">
+                                                    <img class="img-fluid" src="projects/mar/marseille.jpg" alt="alternative">
+                                                </a>
+                                            </div> 
+                                            <p><strong>Olympique de Marseille - Artworks</strong></p>
+                                        </div>
+                                    </div>
+                                    <div class="col-4 element-item Social_media" data-category="Social_media">
+                                        <div class="text-container hover-anim">
+                                            <div class="image-container">
+                                                <a href="projects/soc/gallery.html">
+                                                    <img class="img-fluid" src="projects/soc/socialmedia.jpg" alt="alternative">
+                                                </a>
+                                            </div>
+                                            <p><strong>Social Media - Collection</strong></p>
+                                        </div>
+                                    </div>
+                                    <div class="col-4 element-item Social_media" data-category="Social_media">
+                                        <div class="text-container hover-anim">
+                                            <div class="image-container">
+                                                <a href="projects/mzt/gallery.html">
+                                                    <img class="img-fluid" src="projects/mzt/mozart.png" alt="Its Mozart | cover">
+                                                </a>
+                                            </div>
+                                            <p><strong>Its Mozart | Social Media</strong></p>
+                                        </div>
+                                    </div>
+                                    <div class="col-4 element-item sport" data-category="sport">
+                                        <div class="text-container hover-anim">
+                                            <div class="image-container">
+                                                <a href="projects/dir/gallery.html">
+                                                    <img class="img-fluid" src="projects/dir/morocco.png" alt="alternative">
+                                                </a>
+                                            </div>
+                                            <p><strong>Africa Cup of Nations - Morocco</strong></p>
+                                        </div>
+                                    </div>
+                                    <div class="col-4 element-item sport" data-category="sport">
+                                        <div class="text-container hover-anim">
+                                            <div class="image-container">
+                                                <a href="projects/wes/gallery.html">
+                                                    <img class="img-fluid" src="projects/wes/westhame.jpg" alt="alternative">
+                                                </a>
+                                            </div>
+                                            <p><strong>West Ham United - Artworks</strong></p>
+                                        </div>
+                                    </div>
+                                    <div class="col-4 element-item sport" data-category="sport">
+                                        <div class="text-container hover-anim">
+                                            <div class="image-container">
+                                                <a href="projects/wac/gallery.html">
+                                                    <img class="img-fluid" src="projects/wac/widade.png" alt="alternative">
+                                                </a>
+                                            </div>
+                                            <p><strong>African Ligue 2023 - Wydad AC</strong></p>
+                                        </div>
+                                    </div>
+                                
+
+                            </div>
+						</div>
+						<!-- end of works -->
+					
+					
+                </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
-    </div> <!-- end of basic-4 -->
-    <!-- end of Projects -->
+    </div> <!-- end of ex-basic-1 -->
 	
     <!-- Services -->
     <div id="services" class="basic-2 bg-sblack">
@@ -465,5 +512,7 @@
     <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
     <script src="js/jquery.easing.min.js"></script> <!-- jQuery Easing for smooth scrolling between anchors -->
     <script src="js/scripts.js"></script> <!-- Custom scripts -->
+    <script src="js/isotope-docs.min.js"></script> <!-- Custom scripts -->
+    <script src="js/filter_code.js"></script> <!-- Custom scripts -->
 </body>
 </html>

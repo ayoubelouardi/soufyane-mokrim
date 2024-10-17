@@ -8,7 +8,9 @@
 - edit logo to white
 - privacy policy: https://www.privacypolicygenerator.info/
 - terms of services: https://www.termsandconditionsgenerator.com/
+<html>
 
+</html>
 # What should I change in the copy
 - changing the 1st sentence 
 - About me
